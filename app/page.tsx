@@ -1,16 +1,16 @@
 import ProjectList from '@/components/ProjectList';
 const projects = [
   {
-    title: 'E-Commerce Dashboard',
-    description: 'A full-stack Next.js app for managing products.',
-    technologies: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
-    link: 'https://github.com/your-username/project1'
+    title: 'Snake Game',
+    description: 'A classic Snake game built with Java.',
+    technologies: ['Java'],
+    link: 'https://github.com/Jctman5/SnakeGame.git'
   },
   {
-    title: 'Weather Application',
-    description: 'A React app that fetches and displays weather data.',
-    technologies: ['React', 'JavaScript', 'CSS'],
-    link: 'https://github.com/your-username/project2'
+    title: 'Simple Dungeon Crawler Game',
+    description: 'A simple dungeon crawler game built with C# in Godot.',
+    technologies: ['C#', 'Godot'],
+    link: 'https://github.com/Jctman5/CSE341PROJECT2.git'
   }
 ];
 
